@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Data Backward Passing</string>
+    <string name="Author">RD ROCK</string>
+    <string name="enter_your_phone">Enter Your Phone</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="go_forward">GO TO NEXT ACTIVITY</string>
+    <string name="go_backward">GO TO PREVIOUS ACTIVITY</string>
+    <string name="name_show">Name Shown Here</string>
+    <string name="phone_show">Phone Shown Here</string>
+    <string name="name_characters_allowed">ABCDEFGH
+        IJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvw
+        xyz</string>
+
+</resources>
