@@ -31,6 +31,8 @@ public class MainActivity2 extends AppCompatActivity {
         editTextName = findViewById(R.id.editTextName);
         editTextPhone = findViewById(R.id.editTextPhone);
         buttonGoBack = findViewById(R.id.buttonGoBack);
+        intent = new Intent();
+        getSupportActionBar().setTitle("ACTIVITY TWO");
         buttonGoBack.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -39,7 +41,7 @@ public class MainActivity2 extends AppCompatActivity {
                 }
             }
         });
-        intent = new Intent();
+
     }
 
     @Override
